@@ -101,28 +101,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omerasaf01/omerasaf01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/omerasaf01/omerasaf01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/omerasaf01/omerasaf01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/omerasaf01/omerasaf01/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/omerasaf01/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/omerasaf01/omerasaf01/output/snake.svg" alt="Snake animation" />
 
 ###
