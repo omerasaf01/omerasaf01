@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ömer Asaf Karasu and I'm a Full Stack Developer and AI Researcher, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Benyamina Youcef and I'm a Full Stack Developer and AI Researcher</h2>
 
 ###
 
