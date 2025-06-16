@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ömer Asaf Karasu from Turkey<br><br>- 🔭 I’m working as FullStack Developer & AI Developer<br>- 📚 I'm currently learning Deep Learning & Neural Networks<br>- ⚡ In my free time I play video games or I watch anime to stand health my mentality in Turkey</p>
+<p align="left">I'm Ömer Asaf Karasu from Turkey<br><br>- 🔭 I’m working as FullStack Developer & AI Developer<br>- 📚 I'm currently learning Deep Learning & Neural Networks<br>- ⚡ In my free time I play video games</p>
 
 ###
 
